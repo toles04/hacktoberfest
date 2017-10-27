@@ -1,3 +1,8 @@
+#### Name: [Tolu Akinnubi](https://github.com/toles04)
+ - Place: Lagos, Nigeria
+ - Bio: Web Developer
+ - GitHub: [toles04](https://github.com/toles04)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
